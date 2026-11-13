@@ -1,0 +1,51 @@
+﻿id_livro,titulo,autor,categoria,ano_publicacao,paginas,avaliacao,qtd_avaliacoes,preco,idioma
+1,Extraordinário,R. J. Palacio,Drama,"2012,0",320,"4,8",9800,"49,9",Português
+2,Como Eu Era Antes de Você,Jojo Moyes,Romance,"2012,0",320,"4,7",11200,"49,9",Português
+3,É Assim que Acaba,Colleen Hoover,Romance,"2018,0",368,"4,7",12500,"49,9",Português
+4,É Assim que Começa,Colleen Hoover,Romance,"2022,0",336,"4,8",11200,"54,9",Português
+5,Verity,Colleen Hoover,Suspense,"2018,0",320,"4,7",9800,"49,9",Português
+6,A Paciente Silenciosa,Alex Michaelides,Suspense,"2019,0",364,"4,7",9200,"52,9",Português
+7,A Empregada,Freida McFadden,Suspense,"2022,0",336,"4,6",11400,"49,9",Português
+8,A Empregada Está de Olho,Freida McFadden,suspense,"2023,0",336,"4,5",8300,"54,9",Português
+9,A Biblioteca da Meia-Noite,Matt Haig,Ficção,"2020,0",308,"4,7",8700,"54,9",Português
+10,O Homem de Giz,C. J. Tudor,Suspense,"2018,0",272,"4,5",5400,"44,9",Português
+11,Torto Arado,Itamar Vieira Junior,Romance,"2019,0",264,"4,8",4500,"52,9",Português
+12,Véspera,Carla Madeira,Drama,"2021,0",280,"4,7",5200,"49,9",Português
+13,Daisy Jones & The Six,Taylor Jenkins Reid,Drama,"2019,0",408,"4,7",8300,"59,9",Português
+14,Os Sete Maridos de Evelyn Hugo,Taylor Jenkins Reid,Drama,"2017,0",360,"4,8",13200,"54,9",Português
+15,Malibu Renasce,Taylor Jenkins Reid,Drama,"2021,0",368,"4,6",6100,"62,9",Português
+16,A Vida Invisível de Addie LaRue,V. E. Schwab,Fantasia,"2020,0",504,"4,6",7400,"69,9",Português
+17,Quarta Asa,Rebecca Yarros,Fantasia,"2023,0",544,"4,8",11800,"79,9",Português
+18,Chama de Ferro,Rebecca Yarros,Fantasia,"2023,0",672,"4,7",9200,"84,9",Português
+19,A Guerra da Papoula,R. F. Kuang,Fantasia,"2018,0",544,"4,6",4300,"69,9",Português
+20,Babel,R. F. Kuang,Fantasia,"2022,0",552,"4,7",6900,"79,9",Português
+21,Projeto Hail Mary,Andy Weir,Ficção Científica,"2021,0",496,"4,9",10500,"69,9",Português
+22,Klara e o Sol,Kazuo Ishiguro,Ficção Científica,"2021,0",352,,4300,"59,9",Português
+23,Recursão,Blake Crouch,Ficção Científica,"2019,0",320,"4,7",5600,"54,9",Português
+24,Duna,Frank Herbert,Ficção Científica,"1965,0",680,"4,8",5400,"79,9",Português
+25,Sapiens,Yuval Noah Harari,História,,464,"4,8",6800,"69,9",Português
+26,Homo Deus,Yuval Noah Harari,História,"2015,0",448,"4,6",3900,"74,9",Português
+27,21 Lições para o Século 21,Yuval Noah Harari,História,"2018,0",432,"4,6",3600,"69,9",Português
+28,O Diário de Anne Frank,Anne Frank,História,"1947,0",352,"4,8",5200,"39,9",Português
+29,Hábitos Atômicos,James Clear,Autoajuda,"2018,0",320,"4,9",14500,"69,9",Português
+30,O Poder do Hábito,Charles Duhigg,Autoajuda,"2012,0",408,"4,6",10400,"62,9",Português
+31,A Coragem de Ser Imperfeito,Brené Brown,AUTOAJUDA,"2012,0",208,"4,7",5100,"49,9",Português
+32,Essencialismo,Greg McKeown,Autoajuda,"2014,0",272,"4,7",6200,"49,9",Português
+33,A Psicologia Financeira,Morgan Housel,Financeiro,"2020,0",256,"4,8",9800,,Português
+34,Do Mil ao Milhão,Thiago Nigro,Financeiro,"2018,0",192,"4,6",7600,"49,9",Português
+35,O Investidor Inteligente,Benjamin Graham,Financeiro,"1949,0",640,"4,7",4100,999.9,Português
+36,Almanaque de Naval Ravikant,Eric Jorgenson,Financeiro,"2020,0",240,"4,8",3900,"64,9",Português
+37,Chip War,Chris Miller,Tecnologia,"2022,0",464,"4,7",2800,"89,9",português
+38,A Mulher na Janela,A. J. Finn,Suspense,"2018,0",352,"4,5",0,"52,9",Português
+39,O Sol é Para Todos,Harper Lee,Drama,"1960,0",368,"4,8",4700,"49,9",Português
+40,O Conto da Aia,Margaret Atwood,Ficção,"1985,0",368,"4,7",5600,"59,9",Português
+41,Pequenos Incêndios por Toda Parte,Celeste Ng,Drama,"2017,0",400,"4,6",4300,"54,9",Português
+42,A Vida Mentirosa dos Adultos,Elena Ferrante,Drama,"2019,0",336,"4,2",3400,"549",Português
+43,O Avesso da Pele,Jeferson Tenório,Drama,"2020,0",192,"4,7",3800,"39,9",Português
+44,Tudo é Rio,Carla Madeira,Romance,"2014,0",210,"4,8",10500,"39,9",Português
+45,A Hipótese do Amor,Ali Hazelwood,Romance,,368,4.7,10800,59.9,Português
+46,Pessoas Normais,Sally Rooney,Romance,"2018,0",264,4.4,7600,42.9,Português
+47,A Morte é um Dia que Vale a Pena Viver,Ana Claudia Quintana Arantes,Autoajuda,"2016,0",192,4.7,5200,44.9,Português
+48,O Poder da Autorresponsabilidade,Paulo Vieira,Autoajuda,"2017,0",160,4.6,6800,42.9,Português
+49,Em Agosto nos Vemos,Gabriel García Márquez,Drama,"2024,0",144,4.3,3900,39.9,Português
+50,Amor & Gelato,Jenna Evans Welch,Romance,2016,384,4.5,4200,49.9,Português
